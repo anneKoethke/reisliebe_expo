@@ -8,7 +8,7 @@ export const globalStyles = StyleSheet.create({
     justifyContent: 'center',
   },
   screenTitleText: {
-
+    
   },
   screenParagraph: {
 

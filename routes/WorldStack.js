@@ -21,4 +21,4 @@ const WorldStack = () => (
 );
 
 
-export default AboutStack;
+export default WorldStack;
