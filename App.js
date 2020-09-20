@@ -7,8 +7,6 @@ import { AppNavigator } from './routes/AppNavigator';
 
 const getFonts = () => Font.loadAsync({
   'spicy-rice': require('./assets/fonts/SpicyRice-Regular.ttf'),
-  'dosis-regular': require('./assets/fonts/Dosis-Regular.ttf'),
-  'dosis-light': require('./assets/fonts/Dosis-Light.ttf'),
   'dosis-extra-light': require('./assets/fonts/Dosis-ExtraLight.ttf')
 });
 
