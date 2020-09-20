@@ -11,7 +11,7 @@ export default function Home() {
 
   return(
     <View style={globalStyles.container}>
-      <Text style={globalStyles.screenTitleText}>HomeScreen</Text>
+      <Text style={globalStyles.screenTitleText}>Reissorten</Text>
       <Text style={globalStyles.screenParagraph}>Suchfunktion um schneller den richtigen Reis zu finden (Modal?)</Text>
       <Text style={globalStyles.screenParagraph}>Übersicht über die verschiedenen Reissorten und deren Zubereitung</Text>
       <Text style={globalStyles.screenParagraph}>Details um Mengen zu ändern?</Text>
